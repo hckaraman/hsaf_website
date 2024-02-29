@@ -1,0 +1,70 @@
+/* Adjusted Custom Stylesheet */
+
+body .header-bg {
+  background-color: #11760a !important;
+}
+
+body .nav-link:hover {
+  color: #4f46e5 !important;
+}
+
+body .hero-section {
+  background: linear-gradient(to right, #6dd5ed, #2193b0) !important;
+  color: #ffffff !important;
+}
+
+body .hero-title {
+  font-size: 2.5rem !important;
+  font-weight: bold;
+}
+
+body .hero-subtitle {
+  font-size: 1.2rem !important;
+  margin-top: 1rem !important;
+}
+
+body .services-title {
+  color: #4f46e5 !important;
+  font-weight: bold;
+}
+
+body .service-card:hover {
+  transform: translateY(-5px) !important;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1) !important;
+}
+
+body .contact-form input,
+body .contact-form textarea {
+  border: 1px solid #cbd5e1 !important;
+}
+
+body .contact-form button {
+  background-color: #4f46e5 !important;
+  color: #ffffff !important;
+}
+
+body .contact-form button:hover {
+  background-color: #4338ca !important;
+}
+
+body .footer-bg {
+  background-color: #f1f5f9 !important;
+}
+
+body .footer-text {
+  color: #6b7280 !important;
+}
+
+body .social-icons a:hover {
+  color: #4f46e5 !important;
+}
+
+body .rounded-lg {
+  border-radius: 0.5rem !important;
+}
+
+@media (max-width: 768px) {
+  body .hero-title {
+    font-size: 2rem !important;
+  }
+}
